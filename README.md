@@ -2,4 +2,4 @@
 
 TiddlyWiki plugin for moving sidebar to the left.
 
-See: https://github.io/emakryo/leftsidebar
+See: https://emakryo.github.io/leftsidebar/
